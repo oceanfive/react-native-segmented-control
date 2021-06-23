@@ -1,0 +1,6 @@
+use_frameworks!
+target 'react-native-segmented-control_Tests' do
+  pod 'react-native-segmented-control', :path => '../'
+  
+  
+end
